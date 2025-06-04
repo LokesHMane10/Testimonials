@@ -16,9 +16,10 @@ A sleek, fully responsive **Testimonial UI component** built using **React**. Id
 
 ## 🛠️ Tech Stack
 
-- **React**
-- **CSS / Bootstrap**
-- **HTML** 
+- ⚛️ React
+- 🅱️ Bootstrap 5
+- 🎨 CSS3
+- 📄 HTML5
 
 ---
 > 📝 **Note:** Replace all image paths in the component with your own image file paths or URLs.
