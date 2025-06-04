@@ -17,7 +17,6 @@ A sleek, fully responsive **Testimonial UI component** built using **React**. Id
 ## 🛠️ Tech Stack
 
 - ⚛️ React
-- 🅱️ Bootstrap 5
 - 🎨 CSS3
 - 📄 HTML5
 
