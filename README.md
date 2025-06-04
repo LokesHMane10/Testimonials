@@ -21,6 +21,7 @@ A sleek, fully responsive **Testimonial UI component** built using **React**. Id
 - **HTML** 
 
 ---
+> 📝 **Note:** Replace `"./carousel-demo.png"` and all image paths in the component with your own image file paths or URLs.
 
 
 
